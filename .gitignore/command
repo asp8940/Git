@@ -2,3 +2,4 @@ git checkout 分支(chienyu0507)
 git checkout master
 git add . 增加
 git commit -m "輸入你更新的內容"
+git push master 把檔案傳到master
