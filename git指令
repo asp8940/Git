@@ -14,3 +14,6 @@ git commit -m 'initial commit'
 git remote rm origin
 git remote add origin git@ip:/path
 git push origin master
+
+-------
+git reset commit代號 回到某個版本文件
