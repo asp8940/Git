@@ -16,6 +16,6 @@ git remote add origin git@ip:/path
 git push origin master
 
 -------
-git reset commit代號 回到某個版本文件
-git remote show origin 顯示遠端所有分支
-git push -f //回復版本內容後強制push
+git reset commit代號    回到某個版本文件
+git remote show origin  顯示遠端所有分支
+git push -f             強制push
